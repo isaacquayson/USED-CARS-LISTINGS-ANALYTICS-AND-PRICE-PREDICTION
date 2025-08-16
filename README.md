@@ -127,3 +127,7 @@ This project demonstrated how **data analytics and machine learning** can be eff
 Among the models tested, the **Random Forest Regressor achieved the best performance** (R² = 0.83, RMSE ≈ 2069), proving its effectiveness in capturing the non-linear relationships influencing car prices.  
 
 Ultimately, the integration of **descriptive analytics (dashboards)** and **predictive modeling (machine learning)** offers a comprehensive solution for buyers, sellers, and dealerships to make **informed, data-driven decisions** in the used car ecosystem.  
+
+---
+
+![](https://github.com/isaacquayson/USED-CARS-LISTINGS-ANALYTICS-AND-PRICE-PREDICTION/blob/main/Screenshot%202025-08-16%20144323.png)
